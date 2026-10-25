@@ -1,6 +1,6 @@
 # 🐍 Exercícios Iniciais de Python - ADS
 
-Repositório dedicado aos primeiros códigos e listas de exercícios desenvolvidos em **Python** durante o início da faculdade de Análise e Desenvolvimento de Sistemas.
+Repositório dedicado aos primeiros códigos e listas de exercícios desenvolvidos em **Python** durante o início da faculdade.
 
 ---
 
